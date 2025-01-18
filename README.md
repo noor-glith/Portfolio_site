@@ -24,5 +24,5 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/noor-glith/CodeAlpha_Portfolio_site
+   git clone https://github.com/noor-glith/Portfolio_site
 
